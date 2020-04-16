@@ -1,0 +1,21 @@
+
+.padding0{
+    padding: 0;
+}
+
+.bg{
+    /*background-image: url('./../img/bbf.jpg');*/
+    background-size: cover;
+    background-position:center;
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.error{
+    margin-top: 10px;
+    color:white;
+    background-color: #c62828;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

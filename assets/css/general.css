@@ -1,0 +1,14 @@
+html, body, .wrapper_trapper{
+    height: 100%;
+}
+
+body{
+    background-color:#EEEEEE;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+    flex: 1 0 auto;
+}

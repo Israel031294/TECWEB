@@ -1,0 +1,46 @@
+
+
+#regresoOpciones,#nvoForm{
+	color:blue;
+	cursor:pointer;
+}
+
+#cabeza{
+	
+	background-color:#569DF8;
+	height:50px;
+}
+
+
+#hCabeza{
+	color:white;
+	text-align:center;
+}
+
+.table-caption-div {
+	color:blue;
+}
+
+.titulosTabla{
+	background:33C1FF;
+}
+
+table{
+	 margin: auto;
+	 text-align:center;
+	 border-collapse: collapse;
+}
+
+#fc{
+	background-color:#33C1FF;
+	color:white;
+	text-align:center;
+	 border-collapse: collapse;
+}
+
+#fd{
+	background-color:blue;
+	color:white;
+	text-align:center;
+	 border-collapse: collapse;
+}
